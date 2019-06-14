@@ -1,5 +1,5 @@
 # Proyecto taca-taca
-##Requerimientos:
+## Requerimientos:
 
 	- [x] Armar estructura a medida para el taca
 	- [x] Instalar sistema de luces LED en la estructura
